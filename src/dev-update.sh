@@ -25,6 +25,7 @@ if type "brew" > /dev/null; then
 fi
 
 # update mac apps
-sudo softwareupdate --install --all
-
+if type "softwareupdate" > dev/null; then
+  sudo softwareupdate --install --all
+fi
 
