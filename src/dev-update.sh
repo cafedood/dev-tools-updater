@@ -32,11 +32,15 @@ fi
 
 # set default dir
 if [ $# -gt 0 ]; then
-  if [ $1 -eq 'git' ]; then
+  if [ $1 = 'git' ]; then
     if [ ! -z $2 ]; then
       BASE_DIR=$2
     fi
     update_git
+  elif [ $1 = 'brew' ]; then
+    update_brew
+  elif [ $1 = 'mac' ]; then
+    update_mac
   fi
 else
   BASE_DIR=~/dev/code
