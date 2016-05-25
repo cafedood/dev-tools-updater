@@ -1,18 +1,30 @@
 #!/bin/bash
 
-set -x
+#set -x
 
-# update git repos
-BASE_DIR=~/dev/code
+# set default dir
+if [ $# -gt 0 ]; then
+    BASE_DIR=$1
+else
+    BASE_DIR=~/dev/code
+fi
+
+# update git repo
 cd $BASE_DIR
+#echo "Default dir: " `pwd`
+
 for i in $(find . -name ".git" | cut -c 3-); do
-  cd $i;
+  cd $i/..;
+  echo `pwd`
   git checkout master && git pull;
-  cd $BASE_DIR;
 done
 
 # update local dependencies
 if type "brew" > /dev/null; then
   brew update && brew upgrade
 fi
+
+# update mac apps
+sudo softwareupdate --install --all
+
 
