@@ -1,2 +1,3 @@
 # dev-updater
-Using dev-updater to update code on your mac | laptop, 
+
+Sometimes we want to keep our mac|laptop up to date, like git repos, brew libs. The dev-updater is the one easy to do this. 
