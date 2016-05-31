@@ -6,6 +6,8 @@
 Sometimes we want to keep our mac | laptop up to date easily, like git repos, brew libs. The dev-updater is the one easy to do this. 
 
 Usage:
-
+```bash
+$ dev-updater git  # only update git repos on your mac
+```
 
 
