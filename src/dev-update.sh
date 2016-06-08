@@ -31,6 +31,10 @@ fi
 
 }
 
+#hookup_fun () {
+# hooking up 
+
+#}
 
 # set default dir
 if [ $# -gt 0 ]; then
