@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#set -x
+#set -x  # debug turn off
 
 # update git repo
 update_git () {
@@ -52,4 +52,5 @@ else
   BASE_DIR=~/dev/code
   update_git && update_brew && update_mac
 fi
+
 
