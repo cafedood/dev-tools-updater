@@ -12,4 +12,5 @@ $ dev-updater git  # only update git repos on your mac
 $ dev-updater  # update git repos + man apps + brew 
 ```
 
-
+# future development
+# 1. update apps on mac
