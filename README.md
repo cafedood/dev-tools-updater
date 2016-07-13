@@ -20,4 +20,6 @@ $ dev-updater  # update git repos + man apps + brew
  5. automacically update OSX (developing)
 
  6. schedule a time to check updates
+ 7. log 
+ 8. report chart generation 
 
