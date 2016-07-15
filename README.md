@@ -23,3 +23,4 @@ $ dev-updater  # update git repos + man apps + brew
  7. log 
  8. report chart generation 
  9. docker updates
+ 10. integrate m-cli 
