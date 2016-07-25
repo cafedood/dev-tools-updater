@@ -24,7 +24,7 @@ fi
 
 update_mac () {
 # update mac apps
-if type "softwareupdate" > dev/null; then
+if type "softwareupdate" > /dev/null; then
   sudo softwareupdate --install --all
 fi
 # update apps out of app store
