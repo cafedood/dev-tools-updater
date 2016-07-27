@@ -50,7 +50,7 @@ if [ $# -gt 0 ]; then
   fi
 else
   BASE_DIR=~/dev/code
-  update_git && update_brew && update_mac
+  update_git && update_brew #&& update_mac
 fi
 
 
