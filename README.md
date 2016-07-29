@@ -7,7 +7,6 @@ Sometimes we want to keep our mac | laptop up to date easily, like git repos, br
 Usage:
 ```bash
 $ dev-updater git  # only update git repos on your mac
-
 $ dev-updater  # update git repos + man apps + brew 
 ```
 
