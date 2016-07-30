@@ -52,5 +52,3 @@ else
   BASE_DIR=~/dev/code
   update_git && update_brew #&& update_mac
 fi
-
-
