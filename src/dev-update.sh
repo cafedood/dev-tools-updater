@@ -32,8 +32,12 @@ fi
 }
 
 #hookup_fun () {
-# hooking up 
+# 
+# 
+#}
 
+#log_console () {
+#
 #}
 
 # set default dir
