@@ -1,12 +1,12 @@
 # development env updater 
 
-<img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" width="200" height="200">
+<img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" width="250" height="300">
 
-Sometimes we want to keep our mac | laptop up to date easily, like git repos, brew libs and applications. The dev-updater is the one easy to do this. 
+Sometimes we want to keep our mac | laptop up to date easily, like git repos, brew libs and applications. The dev-updater is the one for it. 
 
 Usage:
 ```bash
-$ dev-updater git  # only update git repos on your mac
+$ dev-updater git  # only update all git repos on your mac
 $ dev-updater  # update git repos + man apps + brew 
 ```
 
