@@ -1,6 +1,6 @@
 # dev-updater
 
-![alt text](http://67.media.tumblr.com/e949f84c3e5659df81de1937f0336984/tumblr_inline_nagx3gxCbT1rmpjcz.png =400x200) 
+![alt text](https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png) 
 
 Sometimes we want to keep our mac | laptop up to date easily, like git repos, brew libs and applications. The dev-updater is the one easy to do this. 
 
