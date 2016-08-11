@@ -1,6 +1,6 @@
 # dev-updater
 
-![alt tag](http://www.lockhart-meyer.co.uk/wp-content/uploads/2011/03/iStock_000019401068.jpg =400x200) 
+![alt text](http://67.media.tumblr.com/e949f84c3e5659df81de1937f0336984/tumblr_inline_nagx3gxCbT1rmpjcz.png =400x200) 
 
 Sometimes we want to keep our mac | laptop up to date easily, like git repos, brew libs and applications. The dev-updater is the one easy to do this. 
 
