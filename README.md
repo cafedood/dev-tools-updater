@@ -1,6 +1,6 @@
 # development env updater 
 
-<img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" width="250" height="300">
+<img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" style="float: right;"  width="250" height="300">
 
 Sometimes we want to keep our mac | laptop up to date easily, like git repos, brew libs and applications. The dev-updater is the one for it. 
 
