@@ -1,6 +1,6 @@
 # dev-updater
 
-![alt text](https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png =200x200) 
+<img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" width="100") 
 
 Sometimes we want to keep our mac | laptop up to date easily, like git repos, brew libs and applications. The dev-updater is the one easy to do this. 
 
