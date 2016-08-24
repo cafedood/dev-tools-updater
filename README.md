@@ -10,7 +10,6 @@ $ dev-updater git  # only update all git repos on your mac
 $ dev-updater  # update git repos + man apps + brew 
 ```
 
-
 # feature list
  1. automatically update brew lib
  2. automacically update git repo
