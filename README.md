@@ -7,6 +7,7 @@ Sometimes we want to keep our mac|windows up to date easily, including git repos
 Usage:
 ```bash
 $ dev-updater git  # only update all git repos on your mac
+$ dev-updater brew # update brew lib
 $ dev-updater  # update git repos + man apps + brew lib
 ```
 
