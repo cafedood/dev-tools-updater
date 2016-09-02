@@ -3,7 +3,7 @@
 <img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" style="float: right;"  width="250" height="300">
 
 Sometimes we want to keep our mac|windows up to date easily, including git repos, brew libs and all applications(not only from apple store). The dev-updater is the one for it. 
-
+  
 Usage:
 ```bash
 $ dev-updater git  # only update all git repos on your mac
