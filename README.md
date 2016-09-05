@@ -3,7 +3,7 @@
 <img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" style="float: right;"  width="250" height="300">
 
 Sometimes we want to keep our mac|windows up to date easily, including git repos, brew libs and all applications(not only from apple store). The dev-updater is the one for it. 
-    
+ 
 Usage:
 ```bash
 $ dev-updater git  # only update all git repos on your mac
@@ -14,9 +14,10 @@ $ dev-updater  # update git repos + man apps + brew lib
 # feature list
  1. automatically update brew lib
  2. automacically update git repo
+ ## under development 
  3. automacically update all apps on mac
  4. automacically update IDE plugins (rubymine, atom..)
- 5. automacically update OSX (developing)
+ 5. automacically update OSX 
 
  6. schedule a time to check updates
  7. log
