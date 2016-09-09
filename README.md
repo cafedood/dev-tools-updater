@@ -14,6 +14,7 @@ $ dev-updater  # update git repos + man apps + brew lib
 # feature list
  1. automatically update brew lib
  2. automacically update git repo
+
  ## under development 
  3. automacically update all apps on mac
  4. automacically update IDE plugins (rubymine, atom..)
