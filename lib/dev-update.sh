@@ -39,7 +39,7 @@ fi
 #log_console () {
 #
 #}
-
+ 
 # set default dir
 if [ $# -gt 0 ]; then
   if [ $1 = 'git' ]; then
