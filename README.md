@@ -8,7 +8,8 @@ Usage:
 ```bash
 $ dev-updater git  # only update all git repos on your mac
 $ dev-updater brew # update brew lib
-$ dev-updater  # update git repos + man apps + brew lib
+$ dev-updater  # update everything  git repos + man apps + brew lib
+$ dev-updater default git # set default to git 
 ```
 
 # feature list
