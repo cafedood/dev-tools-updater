@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#set -x  # debug turn off
+#set -x  # debugging
 
 # update git repo
 update_git () {
