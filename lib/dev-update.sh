@@ -14,7 +14,7 @@ update_git () {
     cd $BASE_DIR
   done
 }
-
+ 
 update_brew () {
 # update local dependencies
 if type "brew" > /dev/null; then
