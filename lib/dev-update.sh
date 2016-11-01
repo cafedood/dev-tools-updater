@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #set -x  # debugging
-
+ 
 # update git repo
 update_git () {
   cd $BASE_DIR
