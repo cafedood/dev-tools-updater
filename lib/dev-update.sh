@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #set -x  # debugging
-# update git repo
-update_git () {
+# update git repos
+update_git ( ) {
   cd $BASE_DIR
   echo "Default dir: " `pwd`
 
