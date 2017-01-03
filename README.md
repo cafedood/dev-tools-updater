@@ -12,6 +12,10 @@ $ dev-updater  # update everything  git repos + man apps + brew lib
 $ dev-updater default git # set default to git 
 ```
 
+Run with shell code
+```
+$ bash lib/dev-update.sh 
+```
 # feature list
  1. automatically update brew lib
  2. automacically update git repo
