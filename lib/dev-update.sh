@@ -26,7 +26,7 @@ update_mac () {
 if type "softwareupdate" > /dev/null; then
   sudo softwareupdate --install --all
 fi
-# update apps not from app store
+# update apps not from app store, not finished
 
 }
 
