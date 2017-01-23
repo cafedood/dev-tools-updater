@@ -1,5 +1,5 @@
 #!/bin/bash
-
+  
 # set -x  debugging
 # update all git repos in any folders on your machine
 update_git ( ) {
