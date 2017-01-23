@@ -1,6 +1,6 @@
 #!/bin/bash
   
-# set -x  debugging
+# set -x  debugging switch
 # update all git repos in any folders on your machine
 update_git ( ) {
   cd $BASE_DIR
