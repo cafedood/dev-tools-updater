@@ -14,7 +14,7 @@ update_git ( ) {
   done
 }
  
-update_brew () {  
+update_brew () {    
 # update brew installations
 if type "brew" > /dev/null; then
   brew update && brew upgrade
