@@ -19,7 +19,7 @@ update_brew () {
 if type "brew" > /dev/null; then
   brew update && brew upgrade
 fi
-}
+}   
 
 update_mac () {
 # update mac apps
