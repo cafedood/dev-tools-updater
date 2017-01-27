@@ -5,7 +5,7 @@
 update_git ( ) {
   cd $BASE_DIR
   echo "Default dir: " `pwd`
-
+  
   for i in $(find . -name ".git" | cut -c 3-); do
     cd $i/..;
     echo `pwd`
