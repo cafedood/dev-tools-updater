@@ -2,7 +2,7 @@
   
 # set -x  debugging switch
 # update all git repos in any folders on your machine
-update_git ( ) {
+update_git ( ) { 
   cd $BASE_DIR
   echo "Default dir: " `pwd`
   
