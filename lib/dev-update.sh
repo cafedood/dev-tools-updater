@@ -13,6 +13,7 @@ update_git ( ) {
     cd $BASE_DIR
   done
 }
+
  
 update_brew () {    
 # update brew installations
