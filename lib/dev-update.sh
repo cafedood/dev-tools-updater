@@ -52,6 +52,6 @@ if [ $# -gt 0 ]; then
     update_mac
   fi
 else
-  BASE_DIR=~/dev/code
+  BASE_DIR=~/dev/code # set your code dir here
   update_git && update_brew #&& update_mac
 fi
