@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ma7rix/dev-updater/blob/master/pics/update-to-date.png" style="float: right;"  width="250" height="300">
 
-Sometimes we want to keep our mac|windows up to date easily, like git repos, brew installed and all applications(not only from apple store). The dev-updater is the one for it. 
+Sometimes we want to keep our mac|windows up to date, like git repos, brew installed and applications not only from apple store. Dev-updater is the one for it. 
  
 Usage:
 ```bash
