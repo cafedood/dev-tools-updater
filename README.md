@@ -17,8 +17,8 @@ Run with shell code
 $ bash lib/dev-update.sh 
 ```
 # feature list
- 1. automatically update brew lib
- 2. automacically update git repo
+ 1. automatically update brew libs
+ 2. automacically update git repos
 
  ## under development 
  3. automacically update all apps on mac
